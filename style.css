@@ -1,5 +1,5 @@
 @font-face {
-  font-family: gilory;
+  font-family: myfont;
   src: url(./Gilroy-Regular.ttf);
 }
 
@@ -13,7 +13,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  font-family: gilroy;
+  font-family: myfont;
   background-color: #4b000a;
   color: #fff;
 }
